@@ -1,0 +1,24 @@
+[
+    {
+        "firstName": "Pranto",
+        "lastName": "Fahim",
+        "uname": "Pranto12",
+        "password": "Pranto123",
+        "email": "pranto@gmail.com",
+        "mobile": "01756429771",
+        "Dob": "2000-11-16",
+        "gen": "Male",
+        "Files: ": "code.docx"
+    },
+    {
+        "firstName": "Rahim",
+        "lastName": "Hossain",
+        "uname": "Rahim12",
+        "password": "Rahim123",
+        "email": "abc@gmail.com",
+        "mobile": "01765548132",
+        "Dob": "2000-11-16",
+        "gen": "Male",
+        "Files: ": "Final-lab-task-1.docx"
+    }
+]
